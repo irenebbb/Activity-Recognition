@@ -20,11 +20,12 @@ Optimal parameters for model tested were found through GridsearchCV.
 
 
 ### Results
-Logistic Regression Cross-Validation Accuracy : 99.63%
-Linear SVC Cross-Validation Accuracy          : 99.82% 
-MLP Cross-Validation Accuracy                 : 97.97%
+- Logistic Regression Cross-Validation Accuracy : 99.63%
+- Linear SVC Cross-Validation Accuracy          : 99.82% 
+- MLP Cross-Validation Accuracy                 : 97.97%
 
 ![Class inbalance graph](https://github.com/irenebbb/Activity-Recognition/blob/main/HW4_Data/photo5981064361856317106.jpg?raw=true)
+
 Walking and Meditating had a much higher numbe of elements than the other 3 classes, contributing to class imbalance
 
 ### Conclusions
