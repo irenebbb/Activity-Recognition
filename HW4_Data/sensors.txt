@@ -1,0 +1,2 @@
+accelerometer,100
+gyroscope,100
